@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Project Data & Artifacts
+collected_data/
+temp_data/
+*.zip
+models/
+*.pth
+
+# System
+.DS_Store
+Thumbs.db
+
+# Agent
+.gemini/
